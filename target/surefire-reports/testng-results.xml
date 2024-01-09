@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-07T19:06:34 MYT" name="OPencartSuite" finished-at="2024-01-07T19:06:38 MYT" duration-ms="4407">
+  <suite started-at="2024-01-09T15:33:26 MYT" name="OPencartSuite" finished-at="2024-01-09T15:33:33 MYT" duration-ms="7027">
     <groups>
       <group name="Master">
         <method signature="Tc_002_LoginTest.Login_test()[pri:0, instance:testCases.Tc_002_LoginTest@1e6a3214]" name="Login_test" class="testCases.Tc_002_LoginTest"/>
@@ -11,9 +11,9 @@
         <method signature="Tc_002_LoginTest.Login_test()[pri:0, instance:testCases.Tc_002_LoginTest@1e6a3214]" name="Login_test" class="testCases.Tc_002_LoginTest"/>
       </group> <!-- Sanity -->
     </groups>
-    <test started-at="2024-01-07T19:06:34 MYT" name="OPencartTest" finished-at="2024-01-07T19:06:38 MYT" duration-ms="4407">
+    <test started-at="2024-01-09T15:33:26 MYT" name="OPencartTest" finished-at="2024-01-09T15:33:33 MYT" duration-ms="7027">
       <class name="testCases.Tc_002_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.Tc_002_LoginTest@1e6a3214]" started-at="2024-01-07T19:06:34 MYT" name="setup" finished-at="2024-01-07T19:06:37 MYT" duration-ms="3291" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.Tc_002_LoginTest@1e6a3214]" started-at="2024-01-09T15:33:26 MYT" name="setup" finished-at="2024-01-09T15:33:31 MYT" duration-ms="5667" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -24,11 +24,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Login_test()[pri:0, instance:testCases.Tc_002_LoginTest@1e6a3214]" started-at="2024-01-07T19:06:37 MYT" name="Login_test" finished-at="2024-01-07T19:06:38 MYT" duration-ms="663" status="PASS">
+        <test-method signature="Login_test()[pri:0, instance:testCases.Tc_002_LoginTest@1e6a3214]" started-at="2024-01-09T15:33:31 MYT" name="Login_test" finished-at="2024-01-09T15:33:32 MYT" duration-ms="911" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login_test -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.Tc_002_LoginTest@1e6a3214]" started-at="2024-01-07T19:06:38 MYT" name="teardown" finished-at="2024-01-07T19:06:38 MYT" duration-ms="250" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.Tc_002_LoginTest@1e6a3214]" started-at="2024-01-09T15:33:32 MYT" name="teardown" finished-at="2024-01-09T15:33:33 MYT" duration-ms="273" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
